@@ -1,0 +1,8 @@
+thumb
+index finger
+middle finger
+ring finger
+pinky
+palm
+hand
+backhand
