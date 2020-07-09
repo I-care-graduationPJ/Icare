@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="954e17ca-76a5-41f8-8042-4685dcef1db8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZG4HrSw6HImPOuPW88n79hiYVN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\Joljak" />
+      <recent name="C:\Users\USER\Desktop\Joljak\CAR\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\Joljak" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Preprocess_mobile">
+    <configuration name="Preprocess_mobile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Joljak" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Preprocess_mobile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Joljak" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Joljak" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\USER\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Joljak" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Joljak" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Train" />
+      <item itemvalue="Python.scratch" />
+      <item itemvalue="Python.train_first" />
+      <item itemvalue="Python.training_1" />
+      <item itemvalue="Python.Preprocess_mobile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Preprocess_mobile" />
+        <item itemvalue="Python.train_first" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.Train" />
+        <item itemvalue="Python.training_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="954e17ca-76a5-41f8-8042-4685dcef1db8" name="Default Changelist" comment="" />
+      <created>1584452011111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584452011111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="40" key="#Train" timestamp="1584860906828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="40" key="#Train/0.0.1536.824@0.0.1536.824" timestamp="1584860906828" />
+    <state x="496" y="40" key="#Utils_2" timestamp="1584530771539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="40" key="#Utils_2/0.0.1536.824@0.0.1536.824" timestamp="1584530771539" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590909256364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590909256364" />
+    <state x="540" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584511910904">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584511910904" />
+    <state x="880" y="40" key="#scratch" timestamp="1591678956773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="880" y="40" key="#scratch/0.0.1536.824@0.0.1536.824" timestamp="1591678956773" />
+    <state x="496" y="40" key="#training_1" timestamp="1584784971528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="40" key="#training_1/0.0.1536.824@0.0.1536.824" timestamp="1584784971528" />
+    <state x="453" y="198" key="FileChooserDialogImpl" timestamp="1586096241650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="453" y="198" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586096241650" />
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1592381183029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592381183029" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1592381183029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592381183029" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1592381183029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592381183029" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1592381183029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592381183029" />
+    <state width="1515" height="315" key="GridCell.Tab.1.bottom" timestamp="1590914075780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="315" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590914075780" />
+    <state width="1515" height="315" key="GridCell.Tab.1.center" timestamp="1590914075779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="315" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590914075779" />
+    <state width="1515" height="315" key="GridCell.Tab.1.left" timestamp="1590914075779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="315" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590914075779" />
+    <state width="1515" height="315" key="GridCell.Tab.1.right" timestamp="1590914075780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="315" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590914075780" />
+    <state x="353" y="91" key="SettingsEditor" timestamp="1592195219115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="353" y="91" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592195219115" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1590912374011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1590912374011" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1592379310115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592379310115" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591016024695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591016024695" />
+  </component>
+</project>
